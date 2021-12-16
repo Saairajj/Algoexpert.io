@@ -1,5 +1,5 @@
-// let array = [3, 5, -4, 8, 1, 1, -1, 6, 4];
-let array = [2, 3, 8, 9];
+let array = [3, 5, -4, 8, 11, 1, -1, 6];
+// let array = [2, 3, 6, 9];
 
 let targetSum = 10;
 
